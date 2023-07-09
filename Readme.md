@@ -39,7 +39,7 @@ Haciendo uso de la librería requests y de la clave de autenticación provista p
 
 Los mismo se guardaron en la carpeta Datasets de este proyecto.
 
-Más detalles: ['Extracción de datasets.ipynb']()
+Más detalles: ['Extracción de datasets.ipynb'](https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Extracci%C3%B3n%20de%20datasets.ipynb)
 
 # **`ETL y EDA de los datos originales`**</h3>
 
@@ -63,7 +63,8 @@ Un análisis en la cantidad de accesos por cada 100 hogares evidencia que un cre
 
 Es importante destacar que el 70% de los hogares ya cuenta con conexión a internet. Un porcentaje relativamente alto que haría pensar que ya es tarde para entrar cómo proveedor del servicio.
 
-[Cantidad de Accesos por cada 100 hogares_Evolución por trimestre](<Imagenes/Cantidad de Accesos por cada 100 hogares_Evolución por trimestre.png>)
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Cantidad%20de%20Accesos%20por%20cada%20100%20hogares_Evoluci%C3%B3n%20por%20trimestre.png><p>
+
 
 Sin embargo, analisis más minucioso a nivel provincial revela que hay distritos con una accesibilidad por debajo del 40% (al 3° trimestre del año 2022), lo cual podría suponer una buena oportunidad de incursionar en estos mercados en una etapa relativamente temprana.
 
@@ -71,11 +72,17 @@ Estas provincias son: Santa Cruz, Formosa, Chaco, Santiago Del Estero y Corrient
 
 [Cantidad de Accesos por cada 100 hogares_Por Provincia](<Imagenes\Cantidad de Accesos por cada 100 hogares_Por Provincia.png>)
 
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Cantidad%20de%20Accesos%20por%20cada%20100%20hogares_Por%20Provincia.png><p>
+
+
 Si se considera la evolución en estas provicias a lo largo del tiempo, ee puede ver que los hogares con acceso a internet están en plena expansión.
 
 En Chaco y Corrientes aumentó al doble. En el caso de Formosa y Santiago Del Estero, más del 400%.
 
 [Cantidad de Accesos por cada 100 hogares_Por Provincias de interes](<Imagenes\Cantidad de Accesos por cada 100 hogares_Por Provincias de interes.png>)
+
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Cantidad%20de%20Accesos%20por%20cada%20100%20hogares_Por%20Provincias%20de%20interes.png><p>
+
 
 
 ### **Calidad del servicio**
@@ -86,17 +93,31 @@ En contrapartida, velocidades por debajo de 30 Mbps son cada vez menos aceptadas
 
 [Cantidad de accesos por Velocidad_Evolución por trimestre](<Imagenes\Cantidad de accesos por Velocidad_Evolución por trimestre.png>)
 
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Cantidad%20de%20accesos%20por%20Velocidad_Evoluci%C3%B3n%20por%20trimestre.png><p>
+
 Así mismo, un zoom en las provincias detectadas con potencial de crecimiento, muestra la misma tendencia en Chaco y Corrientes, en donde se observa un salto pronunciado en la cantidad de accesos a velocidades altas durante el año 2019, pasando de menos de 10.000 accesos a más de 50.000 el caso de Corrientes y más de 80.000 para Chaco en 2022.
 
 Sin embargo, en Formosa y Santiago Del Estero aún no se dio esa explosión y continúan predominando las velocidades bajas.
 
 [Cantidad de accesos por Velocidad_Chaco](<Imagenes\Cantidad de accesos por Velocidad_Chaco.png>)
 
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Cantidad%20de%20accesos%20por%20Velocidad_Chaco.png><p>
+
+
 [Cantidad de accesos por Velocidad_Corrientes](<Imagenes\Cantidad de accesos por Velocidad_Corrientes.png>)
+
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Cantidad%20de%20accesos%20por%20Velocidad_Corrientes.png><p>
+
 
 [Cantidad de accesos por Velocidad_Santiago](<Imagenes\Cantidad de accesos por Velocidad_Santiago.png>)
 
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Cantidad%20de%20accesos%20por%20Velocidad_Santiago.png><p>
+
+
 [Cantidad de accesos por Velocidad_Formosa](<Imagenes\Cantidad de accesos por Velocidad_Formosa.png>)
+
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Cantidad%20de%20accesos%20por%20Velocidad_Formosa.png><p>
+
 
 ### **Tecnologías**
 
@@ -105,6 +126,8 @@ En línea con lo anterior, el uso de tecnologías de Cable Modem y Fibra Óptica
 En el caso de la Fibra Óptica se demuestra un aumento significativo de las curva de crecimiento a partir del 2019. Esto guarda relación con lo examinado en el apratado anterior.
 
 [Tecnologías_Evolución por trimestre](<Imagenes\Tecnologías_Evolución por trimestre.png>)
+
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Tecnolog%C3%ADas_Evoluci%C3%B3n%20por%20trimestre.png><p>
 
 El que sigue es un cuadro comparativo de las tecnologías y los rangos de velocidad que proveen, que se agrega a este informe a modo de referencia.
 
@@ -119,17 +142,27 @@ Si indagamos la situación en las provincias al 3° trimestre del año 2022, en 
 
 [Tecnologías_Por Provincias](<Imagenes\Tecnologías_Por Provincias.png>)
 
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Tecnolog%C3%ADas_Por%20Provincias.png><p>
+
 Posando la lupa en las provincias con potencial de crecimiento, se evidencia que el uso de la tecnología ADSL (para velocidades inferiores a 24), que predominaba el mercado hasta el año 2019, está sufriendo un gran descenso. Por el contrario, el Cable Modem y la Fibra Óptica tomaron relevancia desde entonces.
 
 Es de notar, además, que en Formosa la adopción de mejores tecnologías tiene un retraso respecto del resto puesto que el salto importante de estas se da recién en 2022.
 
 [Tecnologías_Chaco](<Imagenes\Tecnologías_Chaco.png>)
 
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Tecnolog%C3%ADas_Chaco.png><p>
+
 [Tecnologías_Corrientes](<Imagenes\Tecnologías_Corrientes.png>)
+
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Tecnolog%C3%ADas_Corrientes.png><p>
 
 [Tecnologías_Santiago](<Imagenes\Tecnologías_Santiago.png>)
 
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Tecnolog%C3%ADas_Santiago.png><p>
+
 [Tecnologías_Formosa](<Imagenes\Tecnologías_Formosa.png>)
+
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Tecnolog%C3%ADas_Formosa.png><p>
 
 ### **Ingresos**
 
@@ -137,7 +170,9 @@ Es obvio que los ingresos en el sector de internet van en constante y pronunciad
 
 [Ingresos](<Imagenes\Ingresos.png>)
 
-Más detalles: ['ETL y EDA.ipynb']()
+<p align=center><img src=https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Imagenes/Ingresos.png><p>
+
+Más detalles: ['ETL y EDA.ipynb'](https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/ETL%20y%20EDA.ipynb)
 
 # **`Desarrollo de Dashboard interactivo`**</h3>
 
