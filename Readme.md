@@ -103,7 +103,7 @@ Sin embargo, en Formosa y Santiago Del Estero aún no se dio esa explosión y co
 
 ### **Tecnologías**
 
-En línea con lo anterior, el uso de tecnologías de Cable Modem y Fibra Óptica, asociadas a las altas velocidades, va en aumento.
+En línea con lo anterior, el uso de tecnologías de Cable Modem (línea naranja) y Fibra Óptica (línea verde), asociadas a las altas velocidades, va en aumento.
 
 En el caso de la Fibra Óptica se demuestra un aumento significativo de las curva de crecimiento a partir del 2019. Esto guarda relación con lo examinado en el apartado anterior.
 
