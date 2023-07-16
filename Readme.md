@@ -142,6 +142,51 @@ Es obvio que los ingresos en el sector de internet van en constante y pronunciad
 
 Más detalles: ['ETL y EDA.ipynb'](https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/ETL%20y%20EDA.ipynb)
 
+# **`Resumen y conclusión`**</h3>
+
+Retomando la propuesta de este análisis:
+
+Se evaluaron 3 indicadores que respondieron a las siguientes preguntas:
+
+### **Penetración de mercado**
+
+¿En qué provincias se pueden encontrar oportunidades de inserción temprana en el mercado?
+
+Las provincias de Corrientes, Formosa, Chaco y Santiago del Estero se presentan como mercados interesantes para una inserción relativamente temprana, puesto que el porcentaje de penetración (menos del 50%) está muy por debajo de la media nacional (70%)
+
+### **Calidad del servicio: Velocidad**
+
+¿Con es la tendencia en cuanto a velocidad en estas provincias? ¿Y en las más avanzadas?
+
+La evolución de la calidad del servicio hacia velocidades cada vez mayores se evidencia, en general, en todas las provincias del país. Se observa una tendencia al uso de velocidades superiores a 30 Mbps.
+
+Sin embargo, en Formosa y Santiago del Estero aún no se dio esa explosión. Hecho que puede ser aprovechado al momento de incursionar en estos mercados.
+
+### **Tecnologías en uso**
+
+¿Qué tecnologías hacen posible la expansión de esas tendencias? ¿Y cómo están evolucionando en las distintas provincias?
+
+
+En cuanto a las tecnologías utilizadas, la tendencia se correlaciona con las velocidades demandadas por el mercado. El cablemodem y la fibra óptica están desplazando a las tecnologías de menor calidad.
+
+Particularmente, en Formosa la adopción de cablemodem y fibra óptica presenta un delay en el tiempo respecto al resto de las provincias.
+
+
+### **CONCLUSIÓN:**
+
+Formosa podría ser un buen distrito para aprovechar su potencial de crecimiento, teniendo en cuenta también, la posibilidad de expandir el servicio a provincias limítrofes que, si bien están un poco más avanzadas, aún tienen una penetración de mercado muy por debajo de la media nacional.
+
+
+
+
 # **`Desarrollo de Dashboard interactivo`**</h3>
 
-En desarrollo.
+En línea con este análisis se desarrolló un Dashboard dinámico en Power BI en donde se definieron como KPIs:
+
+1) Penetración de Mercado.
+
+2) Calidad del servicio: velocidad.
+
+3) Tecnologías en uso.
+
+Más detalles: ['Dashboard_Análisis del mercado de telecomunicaciones'](https://github.com/Crichu/Analisis_del_Mercado_de_Internet_en_Argentina/blob/main/Dashboard%20_%20An%C3%A1lisis%20del%20mercado%20de%20telecomunicaciones.pbix)
